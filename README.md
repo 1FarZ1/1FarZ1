@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 
-- ⚡ Fun fact **I like video Games**
+- hardcore Lol player
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
