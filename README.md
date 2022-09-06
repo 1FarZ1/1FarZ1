@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 
-- hardcore Lol player
+- Hardcore League of Legends player
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1farz1&show_icons=true&locale=en&layout=compact" alt="1farz1" /></p>
 
