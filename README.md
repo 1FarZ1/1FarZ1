@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm FarZ</h1>
 <h3 align="center">A halfway Flutter ,Python dev </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1farz1&label=Profile%20views&color=0e75b6&style=flat" alt="1farz1" /> </p>
 
 - 🌱 I’m currently learning **Game Dev**
 
