@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm FarZ</h1>
 <h3 align="center">A halfway Flutter ,Python dev </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1farz1&label=Profile%20views&color=0e75b6&style=flat" alt="1farz1" /> </p>
+
 
 - 🌱 I’m currently learning **Game Dev**
 
@@ -13,7 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1farz1&show_icons=true&locale=en&layout=compact" alt="1farz1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1farz1&show_icons=true&locale=en" alt="1farz1" /></p>
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=1farz1&label=Profile%20views&color=0e75b6&style=flat" alt="1farz1" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/fares bek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares bek" height="30" width="40" /></a>
