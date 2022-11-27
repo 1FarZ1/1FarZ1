@@ -2,9 +2,9 @@
 <h3 align="center">A  Flutter ,Python dev </h3>
 
 
-- 🌱 I’m currently learning **Game Dev**
+- 🌱 I’m currently learning **BackEndWebDevelopement**
 
-- 💬 Ask me about **Flutter and python**
+- 💬 Ask me about **Flutter and python** ,**Game Dev**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 
