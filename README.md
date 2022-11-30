@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm FarZ</h1>
-<h3 align="center">A  Flutter ,Python dev </h3>
+<h3 align="center">A  Flutter ,Game dev </h3>
 
 
 - 🌱 I’m currently learning **BackEndWebDevelopement**
