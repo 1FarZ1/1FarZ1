@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm FarZ</h1>
-<h3 align="center">A  Flutter ,Game dev </h3>
+<h3 align="center">A  FullStack developer ,Game Developer </h3>
 
 
 - 🌱 I’m currently learning **BackEndWebDevelopement**
 
-- 💬 Ask me about **Flutter and python** ,**Game Dev**
+- 💬 Ask me about **Flutter and python** ,**Front end And Backend Web Developemnt**,**Unity,Unreal Engine 5**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 
