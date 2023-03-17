@@ -2,9 +2,9 @@
 <h3 align="center">A  FullStack developer ,Game Developer </h3>
 
 
-- 🌱 I’m currently learning **BackEndWebDevelopement**
+- 🌱 I’m currently learning **Full Stack Path**
 
-- 💬 Ask me about **Flutter and python** ,**Front end And Backend Web Developemnt**,**Unity,Unreal Engine 5**
+- 💬 Ask me about **Mobile Dev(Flutter,FireBase)** ,**Full Stack Web Dev(Front,Backend)**,**Game Dev(Unity,Unreal Engine 5),Data Analytics Beginner With Python**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 
