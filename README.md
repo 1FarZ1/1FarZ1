@@ -7,7 +7,7 @@
 - 💬 Ask me about **Mobile Dev(Flutter,FireBase)** ,**Full Stack Web Dev(Front,Backend)**,**Game Dev(Unity,Unreal Engine 5),Data Analytics Beginner With Python**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
-
+[![FarZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=1FarZ1&theme=dark)](https://github.com/1FarZ1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1FarZ1)](https://github.com/1FarZ1/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1farz1&show_icons=true&locale=en" alt="1farz1" /></p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=1farz1&label=Profile%20views&color=0e75b6&style=flat" alt="1farz1" /> </p>
