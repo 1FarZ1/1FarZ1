@@ -7,7 +7,6 @@
 - 💬 Ask me about **Mobile Dev(Flutter,FireBase)** ,**Full Stack Web Dev(Front,Backend)**,**Game Dev(Unity,Unreal Engine 5),Data Analytics Beginner With Python**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1FarZ1)](https://github.com/1FarZ1/github-readme-stats)
 [![FarZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=1FarZ1&theme=dracula)](https://github.com/1FarZ1/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1farz1&show_icons=true&locale=en" alt="1farz1" /></p>
