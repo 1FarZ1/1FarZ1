@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Path**
 
-- 💬 Ask me about **Mobile Dev(Flutter,FireBase)** ,**Full Stack Web Dev**,**Game Dev Concepts ,Data Analytics Beginner With Python**
+- 💬 Ask me about **Flutter** ,**Backend Developement**,**Game Dev Concepts ,Data Analytics Beginner With Python**
 
 - 📫 How to reach me **f_bekkouche@estin.dz**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1FarZ1&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="1farz1" /></p>
