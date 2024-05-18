@@ -19,6 +19,9 @@
 <a href="https://instagram.com/__farz1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__farz1_" height="30" width="40" /></a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <h3 align="left">Backend Developement:</h3>
