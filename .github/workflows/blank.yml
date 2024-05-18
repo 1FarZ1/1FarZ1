@@ -14,3 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TK }}
+          DEBUG_LOGGING : False
