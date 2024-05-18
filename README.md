@@ -20,6 +20,79 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 446 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                406 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+🌆 Daytime                604 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+🌃 Evening                568 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌙 Night                  621 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Saturday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     31 repos            ██████████░░░░░░░░░░░░░░░   39.74 % 
+Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/05/2024 09:19:24 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
