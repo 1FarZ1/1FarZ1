@@ -18,9 +18,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,16 +57,21 @@ Sunday                   311 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     3 hrs 38 mins       █████████████████████░░░░   84.00 % 
+C#                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+btp_app                  3 hrs 55 mins       ███████████████████████░░   90.24 % 
+test                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -88,7 +91,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2024 18:39:37 UTC
+ Last Updated on 19/05/2024 18:39:54 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
