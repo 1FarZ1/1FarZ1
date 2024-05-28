@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm FarZ</h1>
+<h1 align="center">Hi, I'm Fares Bekkouche(FarZ)</h1>
 <h3 align="center"> FullStack developer </h3>
 
 - 🌱 I’m currently learning **Asp .net Core**
