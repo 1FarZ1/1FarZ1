@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter** ,**NestJs**,**Data Analytics and ML in  Python**
 
-- 📫 How to reach me **<f_bekkouche@estin.dz>** or **<farzbussiness@gmail.dz>**
+- 📫 How to reach me **<f_bekkouche@estin.dz>** or **<farzbussiness@gmail.com>**
 
 -  I Love To Do Some **Game Developement** From time To Time 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1FarZ1&layout=compact&count_private=true&theme=dark&hide=c%2b%2b,Cmake,ShaderLab,Makefile,Mathematica,HLSL,rOFF,SWIFT,Unity3D%20Asset&langs_count=10" alt="1farz1" /></p>
