@@ -81,12 +81,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
-
-
  Last Updated on 29/05/2024 07:25:54 UTC
 <!--END_SECTION:waka-->
 
