@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE : "False"
           DEBUG_LOGGING : "False"
+          SHOW_TIME: "False"
