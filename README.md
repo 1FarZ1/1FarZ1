@@ -19,15 +19,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 651 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,14 +58,14 @@ Sunday                   319 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       11 hrs 45 mins      █████████████████░░░░░░░░   68.52 % 
-TypeScript               4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C#                       9 hrs 23 mins       ███████████████░░░░░░░░░░   58.38 % 
+TypeScript               4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Python                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +85,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:43:40 UTC
+ Last Updated on 26/06/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
