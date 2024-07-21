@@ -19,13 +19,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 718 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,14 +60,14 @@ Sunday                   387 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     33 hrs 9 mins       ███████████████████████░░   90.88 % 
-TypeScript               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dart                     31 hrs 14 mins      ███████████████████████░░   93.40 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -85,7 +87,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:42:57 UTC
+ Last Updated on 21/07/2024 18:41:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
