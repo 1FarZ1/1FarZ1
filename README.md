@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,11 +60,11 @@ Sunday                   405 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     11 hrs 48 mins      █████████████████████████   99.51 % 
+Dart                     11 hrs 43 mins      █████████████████████████   99.51 % 
 Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +84,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 18:43:09 UTC
+ Last Updated on 26/08/2024 18:44:30 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
