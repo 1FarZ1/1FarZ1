@@ -27,8 +27,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 54 Public Repositories 
@@ -60,10 +58,10 @@ Sunday                   405 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +81,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 18:44:05 UTC
+ Last Updated on 02/09/2024 18:45:11 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
