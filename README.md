@@ -27,6 +27,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 831 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 54 Public Repositories 
@@ -81,7 +83,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 18:46:25 UTC
+ Last Updated on 11/09/2024 18:45:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
