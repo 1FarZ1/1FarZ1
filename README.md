@@ -21,11 +21,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 831 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,11 +60,10 @@ Sunday                   405 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 mins             █████████████████████████   99.75 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +83,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 18:44:39 UTC
+ Last Updated on 22/09/2024 18:44:37 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
