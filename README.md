@@ -60,10 +60,10 @@ Sunday                   405 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +83,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2024 18:48:03 UTC
+ Last Updated on 26/09/2024 18:47:20 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
