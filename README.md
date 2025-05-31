@@ -19,7 +19,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -60,12 +60,12 @@ Sunday                   626 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 3 mins        ████████████████████████░   95.65 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Dart                     1 hr 31 mins        ████████████████████████░   94.26 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -85,7 +85,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:52:47 UTC
+ Last Updated on 31/05/2025 18:50:20 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
