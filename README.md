@@ -19,13 +19,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 362 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,13 +60,12 @@ Sunday                   630 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     9 hrs 23 mins       ████████████████████████░   95.17 % 
-TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-CocoaPods                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Dart                     8 hrs 45 mins       ████████████████████████░   94.98 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +85,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2025 18:53:15 UTC
+ Last Updated on 05/07/2025 18:51:03 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
