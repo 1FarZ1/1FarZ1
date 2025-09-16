@@ -19,7 +19,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-934%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 618 Contributions in the Year 2025
+> 🏆 625 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,39 +35,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                813 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-🌆 Daytime                1514 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-🌃 Evening                1706 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌙 Night                  1210 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   804 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Tuesday                  742 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Thursday                 718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 857 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     15 hrs 13 mins      █████████████████████████   99.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -85,7 +52,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:52:02 UTC
+ Last Updated on 16/09/2025 18:51:34 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
