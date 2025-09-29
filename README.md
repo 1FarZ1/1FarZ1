@@ -19,15 +19,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 696 Contributions in the Year 2025
+> 🏆 698 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,6 +35,41 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                863 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌆 Daytime                1575 commits        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌃 Evening                1734 commits        ████████░░░░░░░░░░░░░░░░░   32.13 % 
+🌙 Night                  1224 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   830 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Tuesday                  799 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Friday                   798 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 877 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     12 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.76 % 
+TypeScript               8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+HTTP                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+
+🔥 Editors: 
+VS Code                  24 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -52,7 +87,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:47:46 UTC
+ Last Updated on 29/09/2025 18:52:24 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
