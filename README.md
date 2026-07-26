@@ -19,7 +19,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C571%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C573%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -27,7 +27,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 754 Contributions in the Year 2026
+> 🏆 755 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,20 +39,20 @@
 
 ```text
 🌞 Morning                1319 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                2744 commits        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-🌃 Evening                2794 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌙 Night                  1618 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌆 Daytime                2746 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 Evening                2796 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌙 Night                  1618 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Monday                   1395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Tuesday                  1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 Wednesday                1013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Thursday                 1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Friday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Thursday                 1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Friday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 Saturday                 1364 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Sunday                   1183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -60,14 +60,14 @@ Sunday                   1183 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 3 mins        ████████████████░░░░░░░░░   65.17 % 
-Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-HTTP                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Dart                     2 hrs 31 mins       ████████████████░░░░░░░░░   62.11 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+HTTP                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +87,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:50:08 UTC
+ Last Updated on 26/07/2026 19:50:15 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
