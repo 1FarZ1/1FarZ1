@@ -62,40 +62,37 @@ Sunday                   1220 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs 55 mins       █████████████████░░░░░░░░   66.86 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Dart                     6 hrs 56 mins       █████████████████░░░░░░░░   68.57 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████████████████   99.32 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (65.95%)
+⏱ AI Coding Time: 6 hrs 41 mins (66.1%)
 
-✍️ 2,583 lines written by AI, 520 lines written by hand (83.24% AI-written)
+✍️ 2,600 lines written by AI, 518 lines written by hand (83.39% AI-written)
 
-🔤 7,509,097 Input Tokens, 386,739 Output Tokens
+🔤 7,567,017 Input Tokens, 390,803 Output Tokens
 
-💵 $285.49 Estimated AI Cost This Week
+💵 $282.53 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 181 AI Prompts
+🧠 35 AI Sessions, 176 AI Prompts
 
-Spark                    1,614 lines         ███████████████░░░░░░░░░░   58.20 % 
-Opencode-Cli             1,124 lines         ██████████░░░░░░░░░░░░░░░   40.53 % 
-Mimo                     21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Qwen                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Spark                    1,617 lines         ██████████████░░░░░░░░░░░   57.98 % 
+Opencode-Cli             1,172 lines         ███████████░░░░░░░░░░░░░░   42.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.24% of written lines came from AI
-📝 Concise Prompter — average 439 characters per prompt
+🤖 AI-Driven — 83.39% of written lines came from AI
+📝 Concise Prompter — average 459 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.7% of changed lines were hand-edited
+🚀 High AI Trust — 22.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,7 +112,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:57:12 UTC
+ Last Updated on 29/08/2026 21:11:21 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
