@@ -62,37 +62,36 @@ Sunday                   1224 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 33 mins        ██████████████████████░░░   87.56 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Dart                     1 hr 17 mins        ███████████████████████░░   91.11 % 
+Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (66.66%)
+⏱ AI Coding Time: 1 hr (70.31%)
 
-✍️ 132 lines written by AI, 29 lines written by hand (81.99% AI-written)
+✍️ 105 lines written by AI, 15 lines written by hand (87.5% AI-written)
 
-🔤 5,307,259 Input Tokens, 52,261 Output Tokens
+🔤 4,679,777 Input Tokens, 36,038 Output Tokens
 
-💵 $129.59 Estimated AI Cost This Week
+💵 $95.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 36 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
-Spark                    149 lines           █████████████████████████   100.00 % 
+Spark                    109 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.99% of written lines came from AI
-📄 Detailed Prompter — average 696 characters per prompt
+🤖 AI-Driven — 87.5% of written lines came from AI
+📄 Detailed Prompter — average 1,012 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 26.6% of changed lines were hand-edited
+🚀 High AI Trust — 23.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +111,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:49:13 UTC
+ Last Updated on 07/09/2026 21:48:49 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
