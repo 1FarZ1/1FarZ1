@@ -40,21 +40,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1344 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-🌆 Daytime                2808 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌃 Evening                2872 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌙 Night                  1652 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+🌞 Morning                1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌆 Daytime                2872 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌃 Evening                2932 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌙 Night                  1678 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Tuesday                  1333 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Wednesday                1049 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Thursday                 1202 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 1388 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Sunday                   1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Monday                   1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Tuesday                  1377 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                1083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Thursday                 1216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Saturday                 1400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Sunday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -62,36 +62,33 @@ Sunday                   1224 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 17 mins        ███████████████████████░░   91.11 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dart                     45 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (70.31%)
+⏱ AI Coding Time: 30 mins (68.28%)
 
-✍️ 105 lines written by AI, 15 lines written by hand (87.5% AI-written)
+✍️ 65 lines written by AI, 8 lines written by hand (89.04% AI-written)
 
-🔤 4,679,777 Input Tokens, 36,038 Output Tokens
+🔤 2,515,598 Input Tokens, 19,051 Output Tokens
 
-💵 $95.01 Estimated AI Cost This Week
+💵 $60.48 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 24 AI Prompts
+🧠 1 AI Sessions, 17 AI Prompts
 
-Spark                    109 lines           █████████████████████████   100.00 % 
+Spark                    78 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.5% of written lines came from AI
-📄 Detailed Prompter — average 1,012 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 23.78% of changed lines were hand-edited
+🤖 AI-Driven — 89.04% of written lines came from AI
+📄 Detailed Prompter — average 797 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 22.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +108,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:48:49 UTC
+ Last Updated on 08/09/2026 21:27:10 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
