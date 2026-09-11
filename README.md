@@ -19,17 +19,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 917 Contributions in the Year 2026
+> 🏆 920 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,20 +40,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1373 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌆 Daytime                2873 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌃 Evening                2932 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌙 Night                  1678 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌞 Morning                1376 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                2873 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌃 Evening                2932 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌙 Night                  1678 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  1377 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  1377 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Wednesday                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 Thursday                 1217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Saturday                 1400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 1400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 Sunday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 
@@ -62,22 +62,22 @@ Sunday                   1264 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-XML                      25 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
-Java                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Groovy                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Dart                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+XML                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Groovy                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Java                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+RGBDS Assembly           16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Dart                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (66.75%)
+⏱ AI Coding Time: 48 mins (47.92%)
 
-✍️ 336 lines written by AI, 1 lines written by hand (99.7% AI-written)
+✍️ 336 lines written by AI, 57 lines written by hand (85.5% AI-written)
 
 🔤 261,325 Input Tokens, 13,669 Output Tokens
 
@@ -89,10 +89,10 @@ Spark                    349 lines           ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
+🤖 AI-Driven — 85.5% of written lines came from AI
 📝 Concise Prompter — average 77 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.59% of changed lines were hand-edited
+🚀 High AI Trust — 17.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +112,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:12:30 UTC
+ Last Updated on 11/09/2026 21:16:51 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
