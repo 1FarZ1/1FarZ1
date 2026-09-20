@@ -19,11 +19,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C622%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C622%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,22 +62,22 @@ Sunday                   1264 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Java                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Java                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+C                        1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (31.1%)
+⏱ AI Coding Time: 1 hr 18 mins (27.99%)
 
-✍️ 832 lines written by AI, 1,153 lines written by hand (41.91% AI-written)
+✍️ 832 lines written by AI, 1,155 lines written by hand (41.87% AI-written)
 
 🔤 1,212,892 Input Tokens, 53,672 Output Tokens
 
@@ -89,10 +89,10 @@ Spark                    834 lines           ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.91% of written lines came from AI
+⚖️ Balanced with AI — 41.87% of written lines came from AI
 📄 Detailed Prompter — average 681 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.11% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +112,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:00:18 UTC
+ Last Updated on 20/09/2026 21:05:33 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
