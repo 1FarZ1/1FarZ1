@@ -19,9 +19,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C622%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C624%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,37 +62,37 @@ Sunday                   1264 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.45 % 
-Java                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Java Properties          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Java                     46 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+C                        14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (28.34%)
+⏱ AI Coding Time: 1 hr 54 mins (65.22%)
 
-✍️ 587 lines written by AI, 1,118 lines written by hand (34.43% AI-written)
+✍️ 583 lines written by AI, 979 lines written by hand (37.32% AI-written)
 
-🔤 268,230 Input Tokens, 29,403 Output Tokens
+🔤 745,644 Input Tokens, 53,622 Output Tokens
 
-💵 $8.79 Estimated AI Cost This Week
+💵 $28.18 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 22 AI Prompts
+🧠 9 AI Sessions, 32 AI Prompts
 
-Spark                    589 lines           █████████████████████████   100.00 % 
+Spark                    585 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.43% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
+⚖️ Balanced with AI — 37.32% of written lines came from AI
+📄 Detailed Prompter — average 611 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 66.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +112,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:41:52 UTC
+ Last Updated on 23/09/2026 21:47:33 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
