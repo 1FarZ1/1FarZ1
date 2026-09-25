@@ -62,37 +62,37 @@ Sunday                   1264 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.84 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Java Properties          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Java                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.39 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Java Properties          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (73.27%)
+⏱ AI Coding Time: 1 hr 52 mins (68.67%)
 
-✍️ 616 lines written by AI, 449 lines written by hand (57.84% AI-written)
+✍️ 616 lines written by AI, 442 lines written by hand (58.22% AI-written)
 
-🔤 899,648 Input Tokens, 80,818 Output Tokens
+🔤 863,049 Input Tokens, 75,384 Output Tokens
 
-💵 $49.26 Estimated AI Cost This Week
+💵 $47.69 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
-Spark                    618 lines           █████████████████████████   100.00 % 
+Spark                    616 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.84% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 52.97% of changed lines were hand-edited
+⚖️ Balanced with AI — 58.22% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 52.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +112,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:48:43 UTC
+ Last Updated on 25/09/2026 21:51:20 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
