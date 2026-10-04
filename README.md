@@ -40,21 +40,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1376 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌆 Daytime                2872 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                2927 commits        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌙 Night                  1673 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+🌞 Morning                1379 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌆 Daytime                2881 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+🌃 Evening                2936 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌙 Night                  1678 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1438 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Tuesday                  1379 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                1083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Thursday                 1219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 1403 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday                   1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Monday                   1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Tuesday                  1383 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Wednesday                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Thursday                 1219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Saturday                 1407 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 
@@ -62,38 +62,38 @@ Sunday                   1259 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   41.22 % 
-Dart                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Groovy                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Dart                     49 mins             ████████░░░░░░░░░░░░░░░░░   31.56 % 
+Groovy                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Text                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 20 mins (77.18%)
+⏱ AI Coding Time: 1 hr 49 mins (69.34%)
 
-✍️ 1,940 lines written by AI, 99 lines written by hand (95.14% AI-written)
+✍️ 397 lines written by AI, 90 lines written by hand (81.52% AI-written)
 
-🔤 1,910,643 Input Tokens, 154,489 Output Tokens
+🔤 1,517,493 Input Tokens, 73,821 Output Tokens
 
-💵 $110.72 Estimated AI Cost This Week
+💵 $71.37 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 39 AI Prompts
+🧠 7 AI Sessions, 25 AI Prompts
 
-Spark                    1,946 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    417 lines           █████████████████████████   100.00 % 
 Longcat                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.14% of written lines came from AI
-📄 Detailed Prompter — average 850 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.95% of changed lines were hand-edited
+🤖 AI-Driven — 81.52% of written lines came from AI
+📄 Detailed Prompter — average 1,300 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 32.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -113,7 +113,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:50:43 UTC
+ Last Updated on 04/10/2026 21:56:21 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
