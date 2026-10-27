@@ -19,9 +19,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,38 +62,38 @@ Sunday                   1274 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-Java                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-TeX                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Git Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Dart                     2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Java                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+TeX                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Git Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.39 % 
-Opencode Cli             3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
-OpenCode                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+VS Code                  3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
+Opencode Cli             3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
+OpenCode                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 15 mins (88.74%)
+⏱ AI Coding Time: 6 hrs 45 mins (88.58%)
 
-✍️ 18,963 lines written by AI, 887 lines written by hand (95.53% AI-written)
+✍️ 17,026 lines written by AI, 614 lines written by hand (96.52% AI-written)
 
-🔤 6,260,349 Input Tokens, 1,059,001 Output Tokens
+🔤 5,312,818 Input Tokens, 958,356 Output Tokens
 
-💵 $431.86 Estimated AI Cost This Week
+💵 $390.12 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 108 AI Prompts
+🧠 12 AI Sessions, 86 AI Prompts
 
-DeepSeek                 19,188 lines        █████████████████████████   100.00 % 
+DeepSeek                 17,251 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.53% of written lines came from AI
-📝 Concise Prompter — average 109 characters per prompt
+🤖 AI-Driven — 96.52% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.2% of changed lines were hand-edited
+🚀 High AI Trust — 3.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -113,7 +113,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/1FarZ1/1FarZ1/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:55:26 UTC
+ Last Updated on 27/10/2026 22:38:46 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
